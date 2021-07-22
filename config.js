@@ -19,7 +19,7 @@ const CONFIG = {
   greetingMorning: 'Good morning!',
   greetingAfternoon: 'Good afternoon,',
   greetingEvening: 'Good evening,',
-  greetingNight: 'Go to Sleep!',
+  greetingNight: 'Good Night!',
 
   // Weather
   weatherKey: 'InsertYourAPIKeyHere123456',
