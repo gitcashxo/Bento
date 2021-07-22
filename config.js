@@ -11,7 +11,7 @@ const CONFIG = {
   // └─┘┴ ┴└─┘┴└─┘└─┘
 
   // General
-  name: 'Kevin',
+  name: 'Kev',
   imageBackground: false,
   openInNewTab: true,
 
@@ -19,14 +19,14 @@ const CONFIG = {
   greetingMorning: 'Good morning!',
   greetingAfternoon: 'Good afternoon,',
   greetingEvening: 'Good evening,',
-  greetingNight: 'Good Night!',
+  greetingNight: 'Good evening,',
 
   // Weather
-  weatherKey: 'InsertYourAPIKeyHere123456',
-  weatherIcons: 'OneDark', // 'Nord', 'Dark', 'White'
-  weatherUnit: 'C',
-  weatherLatitude: '37.774929',
-  weatherLongitude: '-122.419418',
+  weatherKey: '8c7a2d3a50b25c897c1c435880d7c2f8',
+  weatherIcons: 'Nord', // 'Nord', 'Dark', 'White'
+  weatherUnit: 'F',
+  weatherLatitude: '42.767460',
+  weatherLongitude: '-78.743912',
   
 
   // ┌─┐┌─┐┬─┐┌┬┐┌─┐
